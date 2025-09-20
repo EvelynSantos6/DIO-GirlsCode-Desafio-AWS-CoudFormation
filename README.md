@@ -44,6 +44,7 @@ Ao concluir este desafio, pratiquei:
 
 ```
 📁 DIO-GirlsCode-Desafio-AWS-CoudFormation
+┣ 📁 templates/
 ┣ 📜 01-EC2.yaml
 ┣ 📜 02-Apache.yaml
 ┣ 📜 03-Firewall.yaml
